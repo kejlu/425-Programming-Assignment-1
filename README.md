@@ -19,7 +19,7 @@ B. Additional Elements:
 C. Known Issues:
 - Board can get stuck at a tilt (e.g. when starting, first going in upmost leftmost direction. The board however does not seem to get stuck if you go in any other direction first before going back to upmost leftmost)
 - Green circle does not display wholely when tilting board
-- Just noticed on night of deadline 11:53PM, if you reach the goal and then restart, the ball will float upwards. Whoops.
+- Just noticed on night of deadline 11:53PM, if you reach the goal and then restart, the starting ball will float upwards. Whoops.
 
 D. External Resources:
 - Unity's Roll-a-ball tutorial videos
