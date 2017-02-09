@@ -1,9 +1,9 @@
+Name: Kevin Lu
+Assignment Name: Programming Assignment 1, Part I
+
 To see my work in Unity after opening it:
 Under Project...
 Assets -> _scenes -> Minigame
-
-Name: Kevin Lu
-Assignment Name: Programming Assignment 1, Part I
 
 A. Required Elements:
 - Use WASD or arrow keys to tilt board
