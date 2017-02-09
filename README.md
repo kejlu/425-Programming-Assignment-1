@@ -1,5 +1,4 @@
 To see my work in Unity after opening it:
-
 Under Project...
 Assets -> _scenes -> Minigame
 
