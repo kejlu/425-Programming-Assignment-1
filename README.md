@@ -1,4 +1,6 @@
-Assets -> /_scenes -> Minigame
+To see my work in Unity after opening it:
+Under Project...
+Assets -> _scenes -> Minigame
 
 Name: Kevin Lu
 Assignment Name: Programming Assignment 1, Part I
